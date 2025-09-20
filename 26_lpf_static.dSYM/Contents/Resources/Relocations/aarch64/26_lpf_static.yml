@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jameshoyu/Documents/003_Git/C_Practice/26_lpf_static'
+relocations:     []
+...
